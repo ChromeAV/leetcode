@@ -1,7 +1,5 @@
 package ru.chromeav.leetcode.easy;
 
-import java.util.HashSet;
-
 /**
  * @author a.khromov
  * @since 01.06.2023
