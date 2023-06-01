@@ -6,16 +6,14 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import static ru.chromeav.leetcode.TestUtils.*;
+
 /**
  * @author a.khromov
  * @since 01.06.2023
  */
 class ContainsDuplicateTest {
     private final ContainsDuplicate instance = new ContainsDuplicate();
-
-    private int[] arr(int... values) {
-        return values;
-    }
 
     @Test
     public void example1() {
